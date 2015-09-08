@@ -2,4 +2,5 @@
 2. Patch
 3
 4. Patch 2
-6. Patch 3 will be merge
+5 HotFix_Patch 3
+6. Patch 3
